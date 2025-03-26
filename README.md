@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Pablofsantosz  
 
-<!--
-**Pablofsantosz/Pablofsantosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim  
+- 🔭 Atualmente, estou cursando **Ciência da Computação** e explorando o mundo da programação.  
+- 🌱 Estou aprendendo **C# e JavaScript**, me aprofundando no desenvolvimento backend e frontend.  
+- 👯 Busco colaborar em **projetos interessantes envolvendo desenvolvimento web, criação de jogos ou automação de sistemas**.  
+- 🤔 Procuro ajuda com **boas práticas de desenvolvimento de software e otimização de desempenho**.  
+- 😄 Pronomes: **Ele/Dele**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas Estatísticas  
+
+<div align="center">
+  <a href="https://github.com/Pablofsantosz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablofsantosz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablofsantosz&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 🐍 Animação da Cobrinha  
+
+<div align="center">
+  <img src="https://github.com/Pablofsantosz/Pablofsantosz/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+---
+
+### 🌎 Onde me encontrar  
+
+📫 **Entre em contato comigo:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-felipe-557239266/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloletiane@gmail.com)  
+
+---
+
+✨ _Código, criatividade e café!_ ☕🚀  
