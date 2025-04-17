@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo **C# e JavaScript**, me aprofundando no desenvolvimento backend e frontend.  
 - 👯 Busco colaborar em **projetos interessantes envolvendo desenvolvimento web, criação de jogos ou automação de sistemas**.  
 - 🤔 Procuro ajuda com **boas práticas de desenvolvimento de software e otimização de desempenho**.  
-- 😄 Pronomes: **Ele/Dele**  
+
 
 ---
 
