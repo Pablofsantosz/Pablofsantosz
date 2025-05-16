@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 Computer Science Student | QA & Software Developer
 
-**Passionate about software development and quality assurance**, I'm currently a Computer Science student at UNICAP and a tech enthusiast. I develop using **Python, C#, JavaScript, C, Java**, and frameworks like **React**, always seeking to improve my skills and contribute to meaningful projects.
 
+**Studying a Bachelor's Degree in Computer Science (5th semester) at the Catholic University of Pernambuco (UNICAP)**. Passionate about software development and quality assurance, I'm always looking to improve my skills and contribute to meaningful projects. I develop using **Python, C#, JavaScript, C, Java**, and use libraries and frameworks like React, Django, and Node.js to build impactful projects.
 
 ### Tech Stack
 
