@@ -7,7 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,cs,c,java,nodejs,git,mysql,django)](https://skillicons.dev)
 
----
+
 
 
 ### My GitHub Stats
@@ -17,18 +17,13 @@
 </div>
 
 
-
-
-
-
-
-
-
 ## 🌍 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-felipe-557239266/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloletiane@gmail.com)
 
----
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pablo-felipe-557239266/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:pabloletiane@gmail.com)
 
-#### Native Portuguese | Intermediate/Advanced English  
+
+
+
+###### Native Portuguese | Intermediate/Advanced English  
